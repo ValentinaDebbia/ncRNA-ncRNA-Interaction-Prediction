@@ -1,5 +1,5 @@
 # ncRNA–ncRNA Interaction Prediction with RNA‑FM Embeddings
-This repository contains the full implementation of a deep learning framework for predicting interactions between non‑coding RNAs (ncRNAs), developed for the Bioinformatics exam (A.Y. 2025/2026, University of Milan).
+This repository contains the full implementation of a deep learning framework for predicting interactions between non‑coding RNAs (ncRNAs), developed for the Bioinformatics course (A.Y. 2025/2026, University of Milan).
 # Overview
 Understanding ncRNA–ncRNA interactions is essential for characterizing post‑transcriptional regulation and RNA‑based cellular networks. Experimental mapping remains limited, motivating computational approaches capable of generalizing beyond handcrafted thermodynamic models.
 
